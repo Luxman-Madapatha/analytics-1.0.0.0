@@ -3,3 +3,6 @@ pandas
 numpy
 streamlit-pandas-profiling
 pandas-profiling
+xlrd
+openpyxl
+plotly
